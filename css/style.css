@@ -1,0 +1,39 @@
+body{
+  background: blue;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 54px;
+}
+
+h2{
+  text-align: center;
+  color: blue;
+}
+
+#Will{
+  background: #ff6600;
+  border: 2px solid;
+  border-radius: 25px;
+}
+
+img{
+  display: block;
+}
+
+a{
+  color: blue;
+  font size: 30px;
+}
+
+#Will2{
+  background: #ff6600;
+  border: 2px solid;
+  border-radius: 25px;
+  margin-top: 15px;
+  padding-left:15px;
+  padding-top: 10px;
+  padding-bottom:10px;
+}
