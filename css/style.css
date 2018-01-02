@@ -17,6 +17,7 @@ h2{
   background: #ff6600;
   border: 2px solid;
   border-radius: 25px;
+  margin-bottom 15px;
 }
 
 img{
@@ -35,5 +36,6 @@ a{
   margin-top: 15px;
   padding-left:15px;
   padding-top: 10px;
-  padding-bottom:10px;
+  padding-bottom: 10px;
+  padding-right:15px;
 }
